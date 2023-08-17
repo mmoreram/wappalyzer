@@ -2761,6 +2761,19 @@
     ],
     "website": "https://www.motherhost.com"
   },
+  "Motive.co": {
+    "cats": [
+      29
+    ],
+    "description": "eCommerce search that builds trust & sells more",
+    "icon": "MotiveCO.png",
+    "pricing": [
+      "payg"
+    ],
+    "saas": true,
+    "scriptSrc": "assets\\.motive\\.co",
+    "website": "https://www.motive.co/"
+  },
   "MotoCMS": {
     "cats": [
       1
